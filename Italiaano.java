@@ -1,13 +1,10 @@
-
-public class Alemon {
+public class Italiaano {
 
     public static void main(String[] args) {
         saudar();
     }
-
+    
     public static void saudar() {
-        System.out.println("Hallo Welt!");
+        System.out.println("Ciao Mondo!");
     }
-
-
 }
